@@ -276,6 +276,7 @@ extern const struct flash_driver niietcm4_flash;
 extern const struct flash_driver npcx_flash;
 extern const struct flash_driver nrf51_flash;
 extern const struct flash_driver nrf5_flash;
+extern const struct flash_driver nrf53_flash;
 extern const struct flash_driver numicro_flash;
 extern const struct flash_driver ocl_flash;
 extern const struct flash_driver pic32mx_flash;
